@@ -32,4 +32,4 @@ Features
 * network graph
 * processes 
 
-credits to @fork
+credits to @mrmierzejewski
