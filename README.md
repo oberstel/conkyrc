@@ -1,5 +1,5 @@
-Conky configuration file
-========================
+MyConky configuration file
+==========================
 
 This is my Conky configuration files. 
 
@@ -32,3 +32,4 @@ Features
 * network graph
 * processes 
 
+credits to @fork
